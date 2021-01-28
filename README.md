@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, Its me ahmed 👋
 
 <!--
 **ahmedtohamy1/ahmedtohamy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Agmad's github stats](https://github-readme-stats.vercel.app/api?username=ahmedtohamy1)](https://github.com/ahmedtohamy1)
