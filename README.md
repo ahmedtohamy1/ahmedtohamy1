@@ -10,11 +10,15 @@
 <p>
   <a href="https://twitter.com/_ahmedtohamy"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
   <a href="https://t.me/Ahmed_tohamy"><img src="https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=25></a>
-  <a href="https://www.reddit.com/user/_____aashu____"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height=25></a>
   <a href="https://www.instagram.com/ahmed.tuhamy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmedtohamy1&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedtohamy1" /> </p>
+
+### Support me to continue
+- [PayPal](https://paypal.me/ahmedtohamy1)
+- [Patreon](https://www.patreon.com/ahmedtohamy)
+
 
 ### My Devices
 - [Mi 10T](https://www.gsmarena.com/xiaomi_mi_10t_5g-10473.php)
