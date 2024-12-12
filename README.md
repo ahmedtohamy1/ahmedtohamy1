@@ -1,4 +1,3 @@
-![me](https://github.com/ahmedtohamy1/ahmedtohamy1/assets/46855301/0e7df00a-667c-4e47-8580-0d71d4dd2c85)
 
 ---
 ### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" height="20px"> I am Ahmed Tohamy a.k.a Agmad
