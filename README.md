@@ -3,7 +3,7 @@
 ### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" height="20px"> I am Ahmed Tohamy a.k.a Agmad
 
 ### About me
-- I am a Computer & Communications student, and self learning guy. Currently I am learning Backend end development & Flutter/Android Apps.
+- I am a Computer enthusiast, and self learning guy. Currently I am learning Backend end development & Flutter/Android Apps.
 - Actively maintaining ROMS/Recovery for Apollo (Mi 10T).
 - I don't mind PMs, so feel free to pm me on any of the platforms below
 <p>
