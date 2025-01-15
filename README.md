@@ -1,6 +1,13 @@
 # Hello World!, I'm Ahmed Tohamy (Agmad), an Egyptian Mobile Developer 👋🏼:
 <br>👨🏼‍💻 working as a mobile developer since 2021 <br> 
 
+💁 My aka is **Agmad**, I'm from Cairo, Egypt <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/eg.svg" width="16" alt="Egypt flag" />
+<br />
+> [!Important]
+> 
+> 🗣️ where my aka came from? [**[Agmad]**, that's a deviation from my actual name ahmed which means in slang Egyptian the top-est or the best.
+
+
 # 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahmed.tohamy.0) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmed.tuhamy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedtohamy) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ahmedtohamy3) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_ahmedtohamy) 
 
